@@ -10,7 +10,7 @@ Template Info:
 Name: 		Listrace - free directory template
 Version: 	1.0
 Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+Website: 	https://www.misterSk.com/
 
 
 Changelog:
@@ -30,4 +30,4 @@ Credits:
 
 License:
 -----------------------
-Free License - https://www.themesine.com/license/
+Free License - https://www.misterSk.com/license/
